@@ -8,7 +8,8 @@ namespace Exercises
         static void Main(string[] args)
         {
             //_1Classes.Exercise.Start();
-            _2Inheritance.Exercise.Start();
+            //_2Inheritance.Exercise.Start();
+            _3Polymorphism.Exercise.Start();
         }
     }
 }
