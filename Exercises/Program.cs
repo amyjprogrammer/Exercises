@@ -7,8 +7,8 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            _1Classes.Exercise.Start();
-
+            //_1Classes.Exercise.Start();
+            _2Inheritance.Exercise.Start();
         }
     }
 }
