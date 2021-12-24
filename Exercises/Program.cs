@@ -10,7 +10,8 @@ namespace Exercises
             //_1Classes.Exercise.Start();
             //_2Inheritance.Exercise.Start();
             //_3Polymorphism.Exercise.Start();
-            _4Interface.Exercise.Start();
+            //_4Interface.Exercise.Start();
+            _5Static.Exercise.Start();
         }
     }
 }
