@@ -11,7 +11,8 @@ namespace Exercises
             //_2Inheritance.Exercise.Start();
             //_3Polymorphism.Exercise.Start();
             //_4Interface.Exercise.Start();
-            _5Static.Exercise.Start();
+            //_5Static.Exercise.Start();
+            _6ClassLibrary.Exercise.Start();
         }
     }
 }
